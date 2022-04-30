@@ -41,7 +41,7 @@
             "id": 0,
             "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -53,7 +53,7 @@
             "id": 1,
             "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -65,7 +65,7 @@
             "id": 2,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -77,7 +77,7 @@
             "id": 3,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -93,8 +93,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Lesní hrad"
+            "title": "Lesní hrad",
+            "children": []
           },
           {
             "filename": "hvozd_006.md",
@@ -106,8 +106,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Lesní putování"
+            "title": "Lesní putování",
+            "children": []
           },
           {
             "filename": "hvozd_007.md",
@@ -119,8 +119,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Lesní dům"
+            "title": "Lesní dům",
+            "children": []
           },
           {
             "filename": "hvozd_008.md",
@@ -132,8 +132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Lesní jezero"
+            "title": "Lesní jezero",
+            "children": []
           },
           {
             "filename": "hvozd_009.md",
@@ -145,8 +145,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Lesní louka"
+            "title": "Lesní louka",
+            "children": []
           },
           {
             "filename": "hvozd_010.md",
@@ -158,8 +158,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Lesní skála"
+            "title": "Lesní skála",
+            "children": []
           },
           {
             "filename": "hvozd_011.md",
@@ -171,8 +171,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Lesní trosky"
+            "title": "Lesní trosky",
+            "children": []
           },
           {
             "filename": "hvozd_012.md",
@@ -180,7 +180,7 @@
             "id": 11,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -336,6 +336,6 @@
       "user": "books-are-next",
       "repo": "stifter-hvozd"
     },
-    "generatedAt": 1651310985260
+    "generatedAt": 1651316940610
   }
 }
