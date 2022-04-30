@@ -1,0 +1,209 @@
+{
+  "author": "Adalbert Stifter",
+  "contenttype": "prose",
+  "identifier": "stifter-hvozd-c2364ba",
+  "isbn": "978-80-274-2274-6",
+  "languagecode": "cs",
+  "modified": "2022-03-22T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Hvozd",
+  "revision": "c2364ba",
+  "generatedAt": {
+    "date": "Sat Apr 30 2022 09:30:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651311037012
+  },
+  "documents": [
+    {
+      "title": "Hvozd",
+      "file": "hvozd_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "hvozd_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesní hrad • Hvozd",
+      "file": "hvozd_005.html",
+      "words": 6327,
+      "chars": 36459,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 1,
+      "prev": "hvozd_002.html",
+      "next": "hvozd_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lesní hrad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesní putování • Hvozd",
+      "file": "hvozd_006.html",
+      "words": 4878,
+      "chars": 28546,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 2,
+      "prev": "hvozd_005.html",
+      "next": "hvozd_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lesní putování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesní dům • Hvozd",
+      "file": "hvozd_007.html",
+      "words": 3176,
+      "chars": 18452,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 3,
+      "prev": "hvozd_006.html",
+      "next": "hvozd_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lesní dům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesní jezero • Hvozd",
+      "file": "hvozd_008.html",
+      "words": 3673,
+      "chars": 20682,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 4,
+      "prev": "hvozd_007.html",
+      "next": "hvozd_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lesní jezero",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesní louka • Hvozd",
+      "file": "hvozd_009.html",
+      "words": 6617,
+      "chars": 36422,
+      "ideas": 96,
+      "role": "chapter",
+      "order": 5,
+      "prev": "hvozd_008.html",
+      "next": "hvozd_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lesní louka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesní skála • Hvozd",
+      "file": "hvozd_010.html",
+      "words": 3599,
+      "chars": 20917,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 6,
+      "prev": "hvozd_009.html",
+      "next": "hvozd_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lesní skála",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesní trosky • Hvozd",
+      "file": "hvozd_011.html",
+      "words": 2467,
+      "chars": 14219,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 7,
+      "prev": "hvozd_010.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lesní trosky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Hvozd",
+      "file": "colophon.html",
+      "words": 141,
+      "chars": 930,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
+      "prev": "hvozd_011.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 30881,
+      "chars": 176648,
+      "ideas": 399
+    },
+    "chapters": {
+      "words": 30737,
+      "chars": 175697,
+      "ideas": 374
+    }
+  }
+}

@@ -1,11 +1,14 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Hvozd",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Adalbert Stifter",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-22T00:00:00.000Z"
+      "modified": "2022-03-22T00:00:00.000Z",
+      "isbn": "978-80-274-2274-6"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
@@ -30,50 +33,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "hvozd_001.md",
             "xhtml": "hvozd_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hvozd_002.md",
             "xhtml": "hvozd_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hvozd_003.md",
             "xhtml": "hvozd_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hvozd_004.md",
             "xhtml": "hvozd_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "hvozd_005.md",
@@ -84,7 +92,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lesní hrad"
           },
           {
             "filename": "hvozd_006.md",
@@ -95,7 +105,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lesní putování"
           },
           {
             "filename": "hvozd_007.md",
@@ -106,7 +118,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lesní dům"
           },
           {
             "filename": "hvozd_008.md",
@@ -117,7 +131,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lesní jezero"
           },
           {
             "filename": "hvozd_009.md",
@@ -128,7 +144,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lesní louka"
           },
           {
             "filename": "hvozd_010.md",
@@ -139,7 +157,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lesní skála"
           },
           {
             "filename": "hvozd_011.md",
@@ -150,18 +170,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lesní trosky"
           },
           {
             "filename": "hvozd_012.md",
             "xhtml": "hvozd_012.xhtml",
             "id": 11,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -313,6 +336,6 @@
       "user": "books-are-next",
       "repo": "stifter-hvozd"
     },
-    "generatedAt": 1651310427937
+    "generatedAt": 1651310985260
   }
 }
