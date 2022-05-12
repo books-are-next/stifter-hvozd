@@ -1,21 +1,33 @@
 {
-  "author": "Adalbert Stifter",
-  "contenttype": "prose",
-  "identifier": "stifter-hvozd-db13656",
-  "isbn": "978-80-274-2274-6",
-  "languagecode": "cs",
-  "modified": "2022-03-22T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Hvozd",
-  "revision": "db13656",
+  "author": "Adalbert Stifter",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "stifter-hvozd-89c5d7e",
+  "revision": "89c5d7e",
+  "readingOrder": [
+    "promo.html",
+    "hvozd_005.html",
+    "hvozd_006.html",
+    "hvozd_007.html",
+    "hvozd_008.html",
+    "hvozd_009.html",
+    "hvozd_010.html",
+    "hvozd_011.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sat Apr 30 2022 11:09:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651316992528
+    "date": "Thu May 12 2022 10:43:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352221889
   },
   "documents": [
     {
-      "title": "Hvozd",
-      "file": "hvozd_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +35,17 @@
       "order": 0,
       "prev": null,
       "next": "hvozd_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Lesní hrad • Hvozd",
+      "title": "Lesní hrad",
       "file": "hvozd_005.html",
       "words": 6327,
       "chars": 36459,
       "ideas": 69,
       "role": "chapter",
       "order": 1,
-      "prev": "hvozd_002.html",
+      "prev": "promo.html",
       "next": "hvozd_006.html",
       "toc": [
         {
@@ -54,7 +58,7 @@
       ]
     },
     {
-      "title": "Lesní putování • Hvozd",
+      "title": "Lesní putování",
       "file": "hvozd_006.html",
       "words": 4878,
       "chars": 28546,
@@ -74,7 +78,7 @@
       ]
     },
     {
-      "title": "Lesní dům • Hvozd",
+      "title": "Lesní dům",
       "file": "hvozd_007.html",
       "words": 3176,
       "chars": 18452,
@@ -94,7 +98,7 @@
       ]
     },
     {
-      "title": "Lesní jezero • Hvozd",
+      "title": "Lesní jezero",
       "file": "hvozd_008.html",
       "words": 3673,
       "chars": 20682,
@@ -114,7 +118,7 @@
       ]
     },
     {
-      "title": "Lesní louka • Hvozd",
+      "title": "Lesní louka",
       "file": "hvozd_009.html",
       "words": 6617,
       "chars": 36422,
@@ -134,7 +138,7 @@
       ]
     },
     {
-      "title": "Lesní skála • Hvozd",
+      "title": "Lesní skála",
       "file": "hvozd_010.html",
       "words": 3599,
       "chars": 20917,
@@ -154,7 +158,7 @@
       ]
     },
     {
-      "title": "Lesní trosky • Hvozd",
+      "title": "Lesní trosky",
       "file": "hvozd_011.html",
       "words": 2467,
       "chars": 14219,
@@ -174,11 +178,11 @@
       ]
     },
     {
-      "title": "Tiráž • Hvozd",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 141,
-      "chars": 930,
-      "ideas": 23,
+      "words": 121,
+      "chars": 777,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "hvozd_011.html",
@@ -196,9 +200,9 @@
   ],
   "totals": {
     "all": {
-      "words": 30881,
-      "chars": 176648,
-      "ideas": 399
+      "words": 30861,
+      "chars": 176495,
+      "ideas": 393
     },
     "chapters": {
       "words": 30737,
