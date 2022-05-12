@@ -13,7 +13,7 @@ meta:
   modified: '2022-03-22T00:00:00.000Z'
   isbn: 978-80-274-2274-6
 readingOrder:
-  - hvozd_002.html
+  - promo.html
   - hvozd_005.html
   - hvozd_006.html
   - hvozd_007.html
