@@ -3,6 +3,8 @@ title: Lesní trosky
 contentType: prose
 ---
 
+<section>
+
 Na zeleném pastvisku se tyčila mohutná čtyřhranná věž, obklopená rozpadajícími se hradbami. Neměla střechu, a v jejích vnějších zdech nebyly jediné dveře, zrovna tak jak vypadá dneska – ale neměla ještě na sobě tu zvětralou šedou barvu obnažených kamenných zdí jako dnes, nýbrž byla ještě oděná omítkou a vápnem, jen její čistota byla pošpiněna skvrnami od požáru, vycházejícími z oken a mířícími vzhůru jako ohony komet. I na vnějším zdivu byla patrná nejedna hluboká jizva. Trávník kolem dokola se vytratil a podobal se udusanému mlatu zbrázděnému hlubokými stopami po kolech, tu a tam se na něm válel zuhelnatělý strom anebo trosky neznámých nástrojů. Na to místo smrti shlíželo výsostné ticho a jasná obloha s přívětivým listopadovým sluncem. Nikde kolem ani pomyšlení na nějakého nepřítele, ale na hodinu odtud v okolí nebyla jediná další živoucí bytost; chýše byly spálené, a obec Frymburk ležela v troskách. Nicméně z rozvaliny k temnému nebi stoupal tenký modrý pruh dýmu, jako kdyby tu zříceninu obývala nějaká lidská bytost. Ba dokonce bylo vidět, jak po pastvisku, které sice nebylo zasněžené, zato umrzlé na kost, k troskám kvapně cválá nějaký rytíř. Pobídl koně dokořán zejícím průjezdem, přivázal jej, když seskočil, k tyči jedné železné okenní mříže, z jejíž římsy jako nějaký špinavý led ještě viselo roztavené sklo, pak se rychle otočil a zpola zasutou branou pronikl dovnitř do věže. Tady, vypálenými dveřmi a okny, zíraly na něj chodby a komnaty, připadaly mu hrůzně cizí, a z těch slují vál mu vstříc nehostinný vzduch. Přesto záhy objevil dřevěné schodiště, ztesané z kmenů dosud čerstvých a pokryté přitlučenými fošnami. Vyšel po něm nahoru a ocitl se v chodbě a v předpokoji, jehož strop se nezřítil. Jak tak rázoval temnou chodbou, uviděl nějakého starocha, jak tu stojí, ale nevšímal si ho a zaklepal na dveře u komnaty. Otevřenou špehýrkou u dveří zahlédl ženskou tvář.
 
 „Zuzano,“ řekl neznámý mírně, „mohu vejít?“ Děvečka hned otevřela dveře, provedla ho komnatou a otevřela mu na druhé straně ještě jedny dveře, které vedly do dalšího pokoje. Vešel.
@@ -82,3 +84,5 @@ Jednoho dne ani on nepřijel – zemřel. Že sestry posléze byly už velice s
 Na západě leží a mlčí nezměrné lesy, líbezně divoké jako kdy předtím. Gregor lesní dům zapálil a na to místo rozsypal lesní semena; javory, buky, smrky a další stromy, které stály na lesní louce, měly početné potomstvo a porostly celé to místo, takže povstala znovu hluboká, panenská pustina jako kdysi a jaká je tu ještě dnes.
 
 Často bylo zahlédnout, jak po lese chodí jakýsi starý muž – jako stín –, ale jediný člověk nedokáže říci přesně, kdy tu ještě chodil a kdy pak už nechodil.
+
+</section>

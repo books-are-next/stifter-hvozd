@@ -3,6 +3,8 @@ title: Lesní skála
 contentType: prose
 ---
 
+<section>
+
 A nad lesem opět vládl dávný klid. – – Občas, když stříbrná loď, oblak, osamocen putuje modrým povětřím, dole se nad lesem sune stín, a pak zase nad ním v celé šíři tkví totéž pevné světlo – – anebo když ocelová šeď pozdního podzimu pevně spočívá na celé kopuli nebes, vystřelí z něho jeden sluneční paprsek a na dalekém bukovém svahu políbí jednu zlatou skvrnku, která se sune k okraji a jím neviděna vchází do povětří, a poté je stejná šeď široko daleko a všude. A takové to bylo se sestrami.
 
 Slunce znovu vycházela a zapadala, ale byla stále kratší a chladnější. Gregor činil rozmanitá opatření. Vrata na kůlech bývala postupně zas dokořán, nezamykala se ani nezavírala na kliku, a dívky se mohly zase už vydávat po louce, kam se jim zachtělo, a také to dělaly. – U domu se pozvolna sbírala jedna vrstva palivového dříví za druhou, schraňovali je tu čeledíni z darů lesa; Gregor totiž nedopustil, aby se kácely čerstvé stromy – na zdech se splétal mechový krov – zimní šaty domu. – Dostavovala se už jemná, těžkopádná dcera té pozdní roční doby, mlha, a často, když sestry seděly u stále ještě sluncem vyhřáté stěny skal a vychutnávaly ojedinělé zářivé okamžiky dne, na druhé straně plula a předla, buď sunula pavučiny nad jezerem a údolími, anebo spřádala dohromady stříbrné ostrůvky a ten a onen kousek lesa do podivuhodné barevné změti běli a šedi a rudého žáru podzimních lesů; do toho se mísilo slunce a vpřádalo do té strakatiny horké, doběla roztavené blesky a chladné, vlhké modré stíny, až z toho všeho povstával řinoucí se jas, krásnější a niternější než veškeré barvy jara a léta. A když dívky pak na to všechno mlčky pohlížely, tiše vedle nich cosi zaševelilo, a k nohám se jim snesl jeden nebo dva krvavě rudé listy z ptáčnice. Seděly tu a dívaly se na to představení, samy podzimně posmutnělé, tušící, jak majestátní tu asi je zima, když se na ni ta jejich samota chystá s takovou obřadností a tak tiše. V domě se skládaly háky, lopaty, sněžnice, sáně a další nářadí a nástroje, aby obyvatelé nezapadali sněhem anebo aby je sněhové spousty neodřízly od světa.
@@ -118,3 +120,5 @@ A tak plynul den za dnem, až jich uběhlo jedenáct, a nedorazila žádná zp
 Posléze se začaly na temné jezero snášet první bílé jemné sněhové vločky – a přece jen vyslali na výzvědy jednoho čeledína.
 
 Ale ani on nedorazil zpátky.
+
+</section>
