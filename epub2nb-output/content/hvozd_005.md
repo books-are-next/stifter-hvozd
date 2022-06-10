@@ -3,8 +3,6 @@ title: Lesní hrad
 contentType: prose
 ---
 
-  
-
 Na půlnoční straně rakouské zemičky se na třicet mil daleko táhne směrem k soumračným pásům na západ les, začíná u pramenů řeky Dyje a valí se do dáli až k hraničnímu uzlu, kde se země česká střetá s Rakouskem a s Bavorskem. Tam, jako často jehly v rostoucích krystalech, řítila se proti sobě navzájem hemžení mohutných horských sedel a hřbetů a zdvihala do výše drsné pohoří, které oněm třem zemím teď dodaleka předvádí svou lesní modř a všem jim posílá vlnící se pahorky a prudké bystřiny. Ohýbá, tak jako jemu podobné častěji, přímku hor, a ta pak dál putuje několik denních pochodů půlnočním směrem.
 
 A právě tam, kde les tvoří ohyb podobný odlehlé mořské zátoce, událo se v revírech, co tu zamýšlíme vyprávět. Nejprve se krátce pokusíme vlídnému čtenáři zpřítomnit dva body onoho pochmurně krásného oblouku lesa, tam kde žily a konaly osoby tohoto příběhu, než jej přímo k nim zavedeme. Kéž by se nám zdařilo zprostředkovat mu byť jen z jedné tisíciny zádumčivě krásný obraz těch lesních údolí tak, jak je máme my v srdci od chvíle, kdy jsme mohli jimi putovat a snít v nich část onoho dvojitého snu, který nebesa každému člověku skýtají jednou a obvykle vjednom, sen mládí a první lásky. To on jednoho dne z tisíce srdcí vyjme jedno a jako naše vlastnictví je pro veškeré budoucí věky vpečetí nám do duše jako cosi nad jiné jedinečné a krásné a k tomu luhy, po nichž putovalo, jako věčné vznášivé zahrady zavěsí do temné, vřelé čarovné obraznosti!
@@ -49,8 +47,12 @@ Náhle řekla mladší dcera: „Vidíš, Klariso, i když bys ráda tu melodii
 
 Oslovená nečekala a tiše zapěla dva verše:
 
+  
+
 > „Tam ležely bílé hnáty,  
 > a též zlatá koruna.“
+
+  
 
 Pak nechala hraní, harfu ale neodložila a pohlížela strunami na nevinný sestřin obličej.
 
