@@ -3,6 +3,8 @@ title: Lesní louka
 contentType: prose
 ---
 
+<section>
+
 Na druhý den slunce už bylo na jitřní obloze, když se Klarisa probudila a přikročila k posteli, kde ještě tvrdě spala Johana; na nevinných lících se jí ve spánku uložily veškeré ranní červánky. Klarisa tiše poodešla k oknu, které se vzdouvalo v jitřním zlatě, nějakou chvíli se dívala na les, který byl pokryt jinovatkou a sršel záblesky, a posléze poodešla ke klekátku, aby si odbyla ranní modlitbu. Když vstala, uviděla, že i Johana je na svém klekátku; a tedy klidně vyčkala, dokud sestra nevstane, a potom, dozvuk vroucí modlitby posud v očích, vesele a radostně se pozdravily a skoro si zažertovaly o tom, jak se včera bály. Pustily dovnitř klepající děvečku, a ta jim zvěstovala, že čeledíni vyprávěli, jak za humny jejich kraje už postupují ta a ona vojska a že se valí rozvodím začasté jak mravenci, a všechna se sunou do zemí v horním Podunají. Na krajích lesa je ticho a pusto jako vždy. O Vítkově Kameni nevěděli nic. Dívky se rozhodly, že poprosí Gregora, aby s nimi vyrazil na Plešnou skálu, jen co tráva a křoviska trochu oschnou.
 
 Když se oblékly a slunce vysoko na obloze už z jejich louky vysálo jinovatku a rosu, chtěly se vydat na louku, trochu se po ní procházet. Když sešly po schodech dolů, zastihly Gregora, jak právě přibíjí uvolněná prkna a trámy, a také je zarazilo, že vnější vrata na kůlech, která vždy byla zcela dokořán, jsou teď zavřená nejenom na kliku, ale i na zámek. Gregor okamžitě nechal všeho a ukázal jim vysušené káně, jehož péra už byla úhledně uspořádaná; Gregor dívky požádal, ať si vyberou nejkrásnější z nich na památku svého lesního pobývání; on že zatím půjde k sobě a upraví se, aby mohl vyrazit s nimi. Odešel. Ale dívky, namísto aby si vybíraly péra, stály tu a dívaly se po sobě zaraženě; dnes bylo totiž všechno úplně nové. Jindy je Gregor nechal, aby si vyšly docela samy po louce, kam se jim zachtělo, až k suti, a nestrachoval se o ně. Zuzana, děvečka, která tu právě stála, vyprávěla také, když se dozvěděli, že káně nesestřelil Gregor, nýbrž že ten výstřel vyšel od někoho jiného, neví se, od koho, že strachy celou noc nespala, a že ji pozdě po půlnoci, když čeledíni, co se vrátili, už dávno spali, vyděsil jakýsi divný šramot, jako kdyby to zarachotil zámek – a když se obezřetně podívala z okna, že opravdu zaslechla, jak někdo zamyká vnější bránu, a pak uviděla nějakou postavu, kterou považovala za Gregora, jak rázuje k javorovému lesíku. Uběhla skoro hodina, než se ta postava zase vynořila, odemkla a vešla dovnitř, pečlivě za sebou zamkla bránu – teď, když ten člověk přišel až k domu, bylo zřetelně poznat, že je to Gregor. Tenhle fakt ovšem nebyl s to umenšit neklid dívek – pouze když Gregor vyšel ze dveří a dívky se dívaly na toho sličného starce s upřímným čelem a se zářivýma básnivýma očima pod ním, ochotně vyšly za ním ze dveří, které poté za sebou zase zamkl. Ani jedna ze sester – jako kdyby se domluvily – nezmínila se o nových do očí bijících opatřeních. I on o tom všem mlčel.
@@ -25,14 +27,18 @@ Připadlo jim, jako kdyby nezřetelně zaslechly v dáli jakýsi hlas, něco me
 
 Mlčky napínaly uši tím směrem, ale zrovna teď zase neslyšely nic. A najednou docela zřetelně, až vyzývavě – divoký a horoucí zalétl k nim zpěv mužského hlasu, a zanášel k nim tato slova:
 
-  
+</section>
+
+<section>
 
 Býval jeden král kdysi,  
 ten zlatou korunu měl,  
 a mrzce zabil v lese  
 svou milou, a pryč šel.
 
-  
+</section>
+
+<section>
 
 Potkal ho zelený lovec:  
 „Že hledáš, králi, hrob?  
@@ -44,7 +50,9 @@ Tak skoč z nich hezky, hop!“
 > Tam válely se hnáty,  
 > i korunu uviděl.
 
-  
+</section>
+
+<section>
 
 Hlas umlkl, a v povětří a v srdcích dívek znovu bylo ticho smrti a znovu les – a když tam venku ten kdosi už dávno mlčel, pořád ještě se neodvažovaly pohnout, jako kdyby ten výjev ještě neskončil a určitě ještě něco nastane.
 
@@ -189,3 +197,5 @@ Tohle bylo jediné, co ti tady kdy řekli o těch zvláštních zásnubách, co
 Ti v domě viděli, jak se myslivec a dívky vracejí kvečeru z procházky v javorovém lesíku, a jenom se podivovali svérázné starochově opatrnosti, všechny sloužící totiž zamkl dovnitř, aby zpoza plotu střežili dům.
 
 Vešli z lesní louky do domu. – Klarisa už nebyla klidná – Johana už nebyla šťastná.
+
+</section>

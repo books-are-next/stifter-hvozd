@@ -3,6 +3,8 @@ title: Lesní jezero
 contentType: prose
 ---
 
+<section>
+
 Uplynulo už hodně dnů a týdnů – čekání a obavy se neposunuly ani o píď! – Otcovský dům, kdykoliv jej vyhledali, tyčil se v okuláru jejich trubice stejně krásný, stejně navýsost pokojné spočívaly za hranicemi jejich lesa obydlené končiny, ačkoliv oni náramně dobře věděli, že tam, kam jejich pohled už nedosáhne, vznáší se válečný dým, a ten že se může chvíli co chvíli ukázat jim na obzoru.
 
 Jejich zahrada, les, nijak nedbal toho, co se děje za jeho humny, a činil se v díle na tohle léto, ba téměř už je dokonal; protože mírné podzimní slunce už zasmušile vylévalo své světlo na pestré žluté a rudé podzimní pruhy, které se táhly jemnou modří lesů. – – Jednoho dne naše dvě dívky a Gregor seděli na druhém břehu jezera, přímo naproti jejich domu. Byli od něho dost daleko a dívali se tam, kde se Plechý vrhá do jezera a jejich lesní louku odetíná od ostatního kraje. Čeledíni už tři dny byli kdesi na výpravě za potravinami a večer se čekali nazpět. Slunce toho pozdního léta bylo tak čisté, tak teplé a tak vybízivé, že se mu srdce s důvěrou oddávalo – dvě děvečky se vydaly do hor sbírat ostružiny, a naše malá skupinka, když ji Gregor převezl přes jezero a poté vodil po krásných místech končiny, kochala se vlahým povětřím a příjemně znavena hověla si na jednom velkém kameni, kolem něhož skvěl se jim u nohou žár rudých podzimních křovisek a hustého brusinkoví a blyštěla se dlouhá vlákna babího léta. Dívali se na opuštěný dům a na šedou kamennou stěnu, a Gregor, rovněž uchvácený tou slavnostně tichou nádherou, s níž, tak jako obvykle, přibylo do lesů pozdní léto, vyprávěl jim a vyprávěl, a utápěl se v rozpoložení stále romantičtějším a trudnomyslnějším.
@@ -92,3 +94,5 @@ A s tím sestry vyšly po schodišti do své komnaty, srdce plná obav a oče
 Klarisa ji jemně spustila na podušku a sama se rovněž vydala na lože – ještě do počínajících snů slyšela výskot vracejících se čeledínů na druhé straně jezera a šplouchání odplouvajícího Gregora, který se pro ně vydal.
 
 Pak se jí na sličná víčka snesl hluboký, pevný klid.
+
+</section>

@@ -3,6 +3,8 @@ title: Lesní putování
 contentType: prose
 ---
 
+<section>
+
 Kolem pramenů Vltavy se ještě dnes prostírají lesy a hvozdy tak širé, že medvěd tu není ničím vzácným a narazí se i na rysa: Ale v době, kterou tu líčíme, tyto lesy pokrývaly veškeré hornaté končiny, které jsou teď vyklučené, a na nich stojí lesní vsi se svými titěrně rozčleněnými poli, bílými kostely, červenými kříži a zahrádkami plnými kvetoucích lesních keřů. Možná osm až deset hodin cesty se tehdy prostíraly do šířky, ještě dnes jsou dlouhé na několik denních pochodů.
 
 Tok jedné svěží lesní bystřiny, která průzračná jako nějaké tekuté sklo řine se zpod vlhce zelených olšových křovisek, opisuje vinoucí se údolí, a v tom údolí dnes vede čisťoučká cesta do dřevařské vsi Jelení, která své malebné dřevěné lesní domky rozestřela po svazích na obou stranách údolí. Ty svahy se skví celými koberci překrásných horských bylin a nejedním stádem, jehož klinkání jednotlivými zvonky vzlíná do ticha tkvícího kdesi nahoře. Tehdy však ani ves, ani cesta ještě nebyly, bylo jen údolí a potok, ale ty ještě krásnější, ještě svěžejší, ještě panenštější než nyní, poseté nejrozmanitějšími stromy. Na jedné straně vod stromy stály tak pořídku, že se mezi kmeny jako hladké sukno vinul zelený trávník, jako koberec dost hebký na to, aby na něm spočinula dokonce noha nějaké královské dcery. Ale jak se zdálo, od chvíle, kdy vznikl, nedotkla se této půdy noha jiná než lehce klusající srny, když se přišla k potoku napít anebo si jen tak vyšla na procházku mezi kmeny a slunečními paprsky. Dnes však nadešel den, kdy voje trav a květinek na tomhle trávníku, na rozdíl od svých po tisíc let tichých a osamělých předků, poprvé měly spatřit něco jiného než zeleň listí a modř oblohy a uslyšet něco jiného než bublání vln.
@@ -88,3 +90,5 @@ Cíl výpravy byl tu. Služebné dívek se vrhly ke břehu, líbaly svým půvab
 Ale když dívkám slzy a něžnosti vyústily v poklid, vyšly na dřevěnou terasu, kterou měly před okny, a než se uložily ke spánku, dívaly se ještě do chladné, klidnivé noci. U nohou jim leželo jezero, nehybně třímající cáry černých stínů a zářící oblohy jak zkamenělou strusku – les rozpínal své údy do daleka v nočním snu, vlhké paprsky měsíce tkaly svou pavučinu od hory k hoře, a z údolí, odkud nejspíš poutníci přišli, vzhlížela vzhůru odpočívající tam mlha.
 
 Dobrou noc, milá, sličná, strachující se srdce, dobrou noc!
+
+</section>
