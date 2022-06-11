@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-hvozd-4113c70",
-  "revision": "4113c70",
+  "identifier": "stifter-hvozd-39e26d2",
+  "revision": "39e26d2",
   "readingOrder": [
     "promo.html",
     "hvozd_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:56:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883796661
+    "date": "Sat Jun 11 2022 12:12:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949543111
   },
   "documents": [
     {
