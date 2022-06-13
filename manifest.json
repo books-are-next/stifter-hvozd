@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-hvozd-39e26d2",
-  "revision": "39e26d2",
+  "identifier": "stifter-hvozd-004ea49",
+  "revision": "004ea49",
   "readingOrder": [
     "promo.html",
     "hvozd_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:12:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949543111
+    "date": "Mon Jun 13 2022 21:58:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157505140
   },
   "documents": [
     {
@@ -180,9 +180,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 83,
-      "chars": 560,
-      "ideas": 7,
+      "words": 116,
+      "chars": 742,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "hvozd_011.html",
@@ -200,9 +200,9 @@
   ],
   "totals": {
     "all": {
-      "words": 30823,
-      "chars": 176278,
-      "ideas": 383
+      "words": 30856,
+      "chars": 176460,
+      "ideas": 392
     },
     "chapters": {
       "words": 30737,
