@@ -12,6 +12,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-22T00:00:00.000Z'
   isbn: 978-80-274-2274-6
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - promo.html
   - hvozd_005.html
