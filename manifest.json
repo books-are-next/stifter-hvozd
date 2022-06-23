@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-hvozd-8beefae",
-  "revision": "8beefae",
+  "identifier": "stifter-hvozd-1ce2480",
+  "revision": "1ce2480",
   "readingOrder": [
     "promo.html",
     "hvozd_005.html",
@@ -22,8 +22,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:34:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655364840148
+    "date": "Thu Jun 23 2022 10:28:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655980123655
   },
   "documents": [
     {
