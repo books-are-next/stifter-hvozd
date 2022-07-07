@@ -23,7 +23,7 @@ readingOrder:
   - hvozd_009.html
   - hvozd_010.html
   - hvozd_011.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

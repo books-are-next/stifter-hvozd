@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-hvozd-1ce2480",
-  "revision": "1ce2480",
+  "identifier": "stifter-hvozd-f1de3fb",
+  "revision": "f1de3fb",
   "readingOrder": [
     "promo.html",
     "hvozd_005.html",
@@ -19,11 +19,11 @@
     "hvozd_009.html",
     "hvozd_010.html",
     "hvozd_011.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:28:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980123655
+    "date": "Thu Jul 07 2022 08:39:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183178400
   },
   "documents": [
     {
@@ -167,7 +167,7 @@
       "role": "chapter",
       "order": 7,
       "prev": "hvozd_010.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -180,11 +180,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 134,
-      "chars": 886,
+      "chars": 885,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "hvozd_011.html",
       "next": null,
@@ -202,7 +202,7 @@
   "totals": {
     "all": {
       "words": 30876,
-      "chars": 176615,
+      "chars": 176614,
       "ideas": 395
     },
     "chapters": {
