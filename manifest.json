@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-hvozd-3a57310",
-  "revision": "3a57310",
+  "identifier": "stifter-hvozd-c207c4f",
+  "revision": "c207c4f",
   "readingOrder": [
     "promo.html",
     "hvozd_005.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:05:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640338994
+    "date": "Tue Oct 04 2022 16:53:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902427714
   },
   "documents": [
     {
@@ -181,9 +181,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 134,
+      "words": 132,
       "chars": 886,
-      "ideas": 17,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "hvozd_011.html",
@@ -201,9 +201,9 @@
   ],
   "totals": {
     "all": {
-      "words": 30876,
+      "words": 30874,
       "chars": 176615,
-      "ideas": 395
+      "ideas": 393
     },
     "chapters": {
       "words": 30737,
